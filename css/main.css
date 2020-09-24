@@ -180,14 +180,14 @@ footer p {
 }
 @media screen and (max-width: 767px) {
 	.container {
-		width: 545px;	
+		width: 565px;	
 	}
 }
 @media screen and (max-width: 575px) {
 	.container {
 		padding-right: 10px;
 		padding-left: 10px;
-		width: 100%;	
+		width: 96%;	
 	}
 	.burger {
 		display: block;
@@ -229,7 +229,7 @@ footer p {
 		margin-left: 0;
 	}
 	.button {
-		width: 35%;
+		width: 40%;
 	}
 	.text {
 		display: block;
@@ -250,17 +250,8 @@ footer p {
 	.galery {
 		display: block;
 	}
-	.galery img {
-		width: 95%;
-	}
-	.galery img:nth-child(1){
-		width: 92%;
-	}
-	.galery img:nth-child(2) {
-		width: 92%;
-	}
-	.galery img:nth-child(3) {
-		width: 92%;
+	.galery img:nth-child(1), .galery img:nth-child(2), .galery img:nth-child(3) {
+		width: 100%;
 	}
 	.man {
 		margin-top: 50px;
