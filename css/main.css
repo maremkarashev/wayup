@@ -250,8 +250,11 @@ footer p {
 	.galery {
 		display: block;
 	}
-	.galery img:nth-child(1), .galery img:nth-child(2), .galery img:nth-child(3) {
+	.galery img:nth-child(1), .galery img:nth-child(2) {
 		width: 100%;
+	}
+	.galery img:nth-child(3) {
+		width: 96%;
 	}
 	.man {
 		margin-top: 50px;
