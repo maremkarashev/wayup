@@ -213,7 +213,7 @@ footer p {
 		text-decoration: none;
 		text-transform: uppercase;
 		font-size: 15px;
-		line-height: 25px;
+		line-height: 28px;
 	}
 	.menu li {
 		width: 100%;
@@ -225,8 +225,8 @@ footer p {
 	background-color: rgba(0,0,0,0.6);
 	}
 	.show-menu {
-		width: 25%;
-		left: 62%;
+		width: 30%;
+		left: 54%;
 		top: 30px;
 		display: block;
 		background: rgba(0,0,0,0.4);
