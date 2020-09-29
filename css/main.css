@@ -212,8 +212,8 @@ footer p {
 		height: 100%;
 		text-decoration: none;
 		text-transform: uppercase;
-		font-size: 16px;
-		line-height: 35px;
+		font-size: 18px;
+		line-height: 38px;
 	}
 	.menu li {
 		width: 100%;
@@ -222,14 +222,14 @@ footer p {
 	}
 	.menu li:hover {
 	transition: 1s;
-	background-color: rgba(0,0,0,0.6);
+	background-color: rgba(0,0,0,0.8);
 	}
 	.show-menu {
-		width: 40%;
-		left: 40%;
+		width: 50%;
+		left: 35%;
 		top: 30px;
 		display: block;
-		background: rgba(0,0,0,0.4);
+		background: rgba(0,0,0,0.6);
 	}
 	.man h1 {
 		font-size: 60px;
