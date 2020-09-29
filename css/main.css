@@ -208,8 +208,8 @@ footer p {
 		display: none;
 	}
 	.menu li a {
-		padding-left: 26px;
-		padding-right: 26px;
+		display: block;
+		height: 100%;
 		text-decoration: none;
 		text-transform: uppercase;
 		font-size: 15px;
