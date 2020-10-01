@@ -157,7 +157,7 @@ footer p {
 		width:1140px; 
 	}
 }
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1190px) {
 	.container {
 		width: 960px;
 	}
@@ -206,6 +206,9 @@ footer p {
 	
 	.menu {
 		display: none;
+	}
+	.show-menu{
+		display: block;
 	}
 	.menu li a {
 		display: block;
